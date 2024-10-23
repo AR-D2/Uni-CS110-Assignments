@@ -1,0 +1,8 @@
+
+Here are the conversions of the number you provided:-
+
+
+Weight in pounds: 12000 lb                     1 ton = 2000 pounds
+Weight in ounces: 192000 oz                    1 ton = 32000 ounces
+Weight in kilograms: 5443 kg               1 ton = 907.185 kilograms
+Weight in grams: 5443108 g                 1 ton = 907184.74 grams
